@@ -1,2 +1,2 @@
 # DoTheRight
-See Something Wrong, Do Something Right
+Public Review System Chrome Extension for Websites
